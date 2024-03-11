@@ -1,5 +1,6 @@
 # Madison Sparks
 
+
 ## Table of Contents
 - [About Me](#about-me)
 - [Education ](#education)
@@ -26,7 +27,7 @@
 
 
 ## CV
-
+Check out my [Resume](?assets=Sparks,Madison-Resume.pdf)
 
 
 
