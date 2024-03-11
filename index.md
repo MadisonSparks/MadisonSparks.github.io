@@ -1,5 +1,11 @@
 # Madison Sparks
 
+### To add
+- [contact info]
+- [photo]
+- [details of projects]
+- [decide what projects to include]
+
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -27,7 +33,8 @@
 
 
 ## CV
-Check out my [Resume](?assets=Sparks,Madison-Resume.pdf)
 
+![resume1](assets/Sparks,Madison Resume-1)
+![resume2](assets/Sparks,Madison Resume-2)
 
 
