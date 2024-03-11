@@ -34,7 +34,6 @@
 
 ## CV
 
-![resume1 ](assets/Sparks,Madison Resume-1.png)
-![resume2 ](assets/Sparks,Madison Resume-2.png)
 
-
+![resume 1](<Sparks,Madison Resume-1.png>)
+![resume 2](<Sparks,Madison Resume-2.png>)
