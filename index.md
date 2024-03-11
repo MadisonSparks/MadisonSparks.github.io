@@ -33,8 +33,8 @@
 
 
 ## CV
-
+[Check out my Resume!](https://github.com/MadisonSparks/MadisonSparks.github.io/blob/main/assets/Sparks%2CMadison%20Resume.pdf)
 
 ![resume 1](<Sparks,Madison Resume-1.png>)
 ![resume 2](<Sparks,Madison Resume-2.png>)
-[resume ](https://github.com/MadisonSparks/MadisonSparks.github.io/blob/main/assets/Sparks%2CMadison%20Resume-1.png)
+
